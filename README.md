@@ -14,4 +14,4 @@ MinDiff technique: Typically used to ensure that a model predicts the preferred 
 
 Overview of the project:
 
-For the project we have used the MinDiff technique using the Alexnet model as an original model. From the project we can clearly see improvements both in FPR and FNR. The diff between the slices has definitely reduced. 
+For the project we have used the MinDiff technique using the Alexnet model as an original model. From the project we can clearly see improvements both in FPR and FNR. The differnce between the slices has reduced. 
