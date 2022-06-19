@@ -1,1 +1,1 @@
-# Improved-Model-Remediaiton-on-CelebA-Dataset-
+# Improved-Model-Remediaiton-on-CelebA-Dataset
