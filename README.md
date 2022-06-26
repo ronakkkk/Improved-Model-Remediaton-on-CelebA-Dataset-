@@ -1,4 +1,4 @@
-# Improved-Model-Remediaiton-on-CelebA-Dataset
+# Improved-Model-Remediaton-on-CelebA-Dataset
 TensorFlow Model Remediation is a library that provides solutions for machine learning practitioners working to create and train models in a way that reduces or eliminates user harm resulting from underlying performance biases.
 
 $ pip install tensorflow-model-remediation
